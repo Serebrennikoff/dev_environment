@@ -1,0 +1,12 @@
+app/bower
+app/images/Thumbs.db
+dist
+node_modules
+npm-debug.log
+
+### Sass template
+.sass-cache
+*.css.map
+
+# Thumbnails
+._*

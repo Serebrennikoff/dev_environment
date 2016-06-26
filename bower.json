@@ -1,0 +1,6 @@
+{
+  "name": "accordion",
+  "dependencies": {
+    "normalize-css": "normalize.css#^4.1.1"
+  }
+}
